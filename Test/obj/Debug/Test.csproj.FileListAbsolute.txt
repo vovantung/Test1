@@ -1,0 +1,10 @@
+C:\Users\Vo Van Tung\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Vo Van Tung\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Vo Van Tung\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Vo Van Tung\Desktop\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
